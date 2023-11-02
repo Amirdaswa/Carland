@@ -1,0 +1,14 @@
+.sb__container{
+    display: block;
+    transition: all 1s;
+    background-color: red;
+}
+
+.sb__container{
+    transform: scale(1.1);
+}
+
+.sb__button{
+    background-color: aqua;
+}
+
