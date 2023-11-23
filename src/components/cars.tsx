@@ -62,5 +62,5 @@ const Cars = () => {
     </div>
   )
 }
-
+//This is the cars in the home page but it is need a littel additional things
 export default Cars
